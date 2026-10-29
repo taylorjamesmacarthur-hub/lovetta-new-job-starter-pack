@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 230" font-family="Georgia, 'Times New Roman', serif">
+  <rect width="960" height="230" rx="18" fill="#FBF3E4"/>
+  <text x="40" y="44" font-size="13" letter-spacing="4" fill="#A8873F" font-family="Helvetica, Arial, sans-serif" font-weight="700">A DAY WITH THE STARTER PACK</text>
+  <path d="M60 140 C 220 70, 300 200, 480 130 S 760 70, 900 140" fill="none" stroke="#E86F6A" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round"/>
+  <g font-size="15" fill="#1B1B1B" text-anchor="middle">
+    <circle cx="90" cy="128" r="30" fill="#E8B04B"/><text x="90" y="135" font-size="22">☕</text>
+    <text x="90" y="186" font-weight="700">Morning</text><text x="90" y="206" font-size="12" fill="#55524B">daily-briefing</text>
+    <circle cx="300" cy="138" r="30" fill="#8FB49A"/><text x="300" y="145" font-size="22">☎</text>
+    <text x="300" y="196" font-weight="700">Call blocks</text><text x="300" y="216" font-size="12" fill="#55524B">broker-cold-call · call-prep</text>
+    <circle cx="510" cy="124" r="30" fill="#E86F6A"/><text x="510" y="131" font-size="22">♥</text>
+    <text x="510" y="182" font-weight="700">Booked one</text><text x="510" y="202" font-size="12" fill="#55524B">ae-handoff-note</text>
+    <circle cx="720" cy="102" r="30" fill="#E8B04B"/><text x="720" y="109" font-size="22">✎</text>
+    <text x="720" y="160" font-weight="700">Wrap the day</text><text x="720" y="180" font-size="12" fill="#55524B">end-of-day · numbers-check</text>
+    <circle cx="890" cy="134" r="30" fill="#8FB49A"/><text x="890" y="141" font-size="22">★</text>
+    <text x="890" y="192" font-weight="700">Friday</text><text x="890" y="212" font-size="12" fill="#55524B">weekly-wrap</text>
+  </g>
+</svg>
